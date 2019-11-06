@@ -2,11 +2,8 @@
 (Data Science Algorithms and Data Structures Simplified)
 
 
+
 ## Supervised Learning:
-
-### Binary Search Tree:
-Binary search tree with: add node, bfs, dfs, tree validation, delete node, find node, and search node methods.
-
 
 ### Decision Tree:
 Decision Tree made for splitting data for best attributes. All attributes are recommended to be numerical. If not, all
@@ -28,4 +25,17 @@ Centroids are initialized based on their probability index set by their distance
 
 2- Kmeans algorithm to cluster data into groups
  
+
+
+
+## Data-Structures:
+
+### Linked Lists:
+Singly Linked List with 20+ methods. FIFO and LIFO applications. 
+
+
+### Binary Search Tree:
+Binary search tree with: add node, bfs, dfs, tree validation, delete node, find node, and search node methods.
+
+
 
