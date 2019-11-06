@@ -9,14 +9,13 @@ Binary search tree with: add node, bfs, dfs, tree validation, delete node, find 
 
 
 ### Decision Tree:
-Decision Tree made for splitting data for best attributes. All attributes are recommended to be numerical. 
-Gini index of the related nodes is considered to achieve the largest information gain to select the best splits.
-For simplicity, IRIS dataset is used to test the code. 
+Decision Tree made for splitting data for best attributes. All attributes are recommended to be numerical. If not, all
+attributes should be converted into numerical values and standardized before executing for splits.
+Gini index of the related nodes is considered to achieve the largest information gain to optimize the best splits.
 
 
-### K Nearest Neighbor (KNN):
+### K-Nearest-Neighbor (KNN):
 KNN algorithm (K-Nearest Neighbor) for both classification and regression problems. 
-For simplicity, IRIS dataset is used to test the code. 
 
 
 
@@ -28,5 +27,5 @@ For simplicity, IRIS dataset is used to test the code.
 Centroids are initialized based on their probability index set by their distance from each other
 
 2- Kmeans algorithm to cluster data into groups
-For simplicity, WINE dataset is used to test the code. 
+ 
 
