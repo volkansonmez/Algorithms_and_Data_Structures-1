@@ -30,9 +30,11 @@ Centroids are initialized based on their probability index set by their distance
 
 ## Data-Structures:
 
-### Linked Lists:
+### Linked List:
 Singly Linked List with 20+ methods. FIFO and LIFO applications. 
 
+### Doubly Connected Linked List:
+Doubly Connected Linked List with several methods.
 
 ### Binary Search Tree:
 Binary search tree with: add node, bfs, dfs, tree validation, delete node, find node, and search node methods.
