@@ -28,7 +28,7 @@ Centroids are initialized based on their probability index set by their distance
 
 
 
-## Data-Structures:
+## Data Structures:
 
 ### Linked List:
 Singly Linked List with 20+ methods. FIFO and LIFO applications. 
