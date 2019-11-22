@@ -1,5 +1,5 @@
-# Algorithms-and-Data-Structures for Data Science
-(Data Science Algorithms and Data Structures)
+# Algorithms and Data-Structures for Data Science and Machine Learning 
+(Algorithms and Data Structures Simplified)
 
 
 
