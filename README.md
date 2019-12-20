@@ -11,7 +11,7 @@ attributes should be converted into numerical values and standardized before exe
 By measuring the gini index of the related (parent-child) nodes, the splits are made to achieve the largest information gain. 
 
 ### Random Forest:
-To make a Random Forest there needs to be n decision trees which are the building blocks of Random Forest algorithm. Find the optimal number of trees trained with optimal portion of the data and the optimal gini for achieving the best accuracy.
+To make a Random Forest, there needs to be n decision trees which are the building blocks of Random Forest algorithm. Find the optimal number of trees trained with optimal portion of the data and the optimal gini for achieving the best accuracy.
 
 ### K-Nearest-Neighbor (KNN):
 KNN algorithm (K-Nearest Neighbor) for both classification and regression problems. 
@@ -38,5 +38,6 @@ Doubly Connected Linked List with several methods.
 ### Binary Search Tree:
 Binary search tree with: add node, bfs, dfs, tree validation, delete node, find node, and search node methods.
 
-
+### Graph Traversal Algorithms:
+Djikstra, Heapq, Djikstra improved with heapq, and Bellman-Ford algorithms.
 
