@@ -38,6 +38,6 @@ Doubly Connected Linked List with several methods.
 ### Binary Search Tree:
 Binary search tree with: add node, bfs, dfs, tree validation, delete node, find node, and search node methods.
 
-### Graph Traversal Algorithms:
+### Graph + Priority Heap with Graph Traversal Algorithms:
 Djikstra, Heapq, Djikstra improved with heapq, and Bellman-Ford algorithms.
 
