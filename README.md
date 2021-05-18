@@ -43,7 +43,7 @@ Under the following terms:
 
 
 
-## Supervised Learning:
+* ## Supervised Learning:
 
 ### Decision Tree:
 Decision Tree made for splitting data for its best attributes. All attributes are recommended to be numerical. If not, all
@@ -58,7 +58,7 @@ KNN algorithm (K-Nearest Neighbor) for both classification and regression proble
 
 
 
-## Unsupervised Learning:
+* ## Unsupervised Learning:
 
 ### Kmeans & Kmeans-Plus-Plus:
 First Part: Kmeans plus plus algorithm to initialize the centroids. The centroids are initialized based on their probability index set by their distance from each other
@@ -67,7 +67,7 @@ Second Part: Kmeans algorithm to cluster data into groups
  
 
 
-## Data Structures:
+* ## Data Structures:
 
 ### Linked List:
 Singly Connected Linked List with 20+ methods and its FIFO and LIFO applications. 
